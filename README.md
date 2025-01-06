@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifhudha&label=Profile%20views&color=0e75b6&style=flat" alt="hanifhudha" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Server**
 - 👨‍💻 All of my projects are available at [here](https://github.com/hanifhudha?tab=repositories)
 - 👯 I’m looking to collaborate on **Mobile Programming**
 - ⚡ I love making **bots** to help with daily activities
