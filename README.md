@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Server**
 - 👨‍💻 All of my projects are available at [here](https://github.com/hanifhudha?tab=repositories)
-- 👯 I’m looking to collaborate on **Mobile Programming**
+- 👯 I’m looking to collaborate on **Web Programming**
 - ⚡ I love making **bots** to help with daily activities
 
 <h3 align="left">Languages and Tools:</h3>
